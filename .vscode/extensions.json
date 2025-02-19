@@ -1,8 +1,11 @@
 {
-    // See https://go.microsoft.com/fwlink/?LinkId=827846
-    // for the documentation about the extensions.json format
-    "recommendations": [
+  "recommendations": [
       "ms-python.python",
-      "redhat.fabric8-analytics"
-    ]
+      "gitlab.gitlab-workflow",
+      "ms-toolsai.jupyter",
+      "ms-toolsai.vscode-jupyter-cell-tags",
+      "ms-toolsai.jupyter-keymap",
+      "ms-toolsai.jupyter-renderers",
+      "ms-toolsai.vscode-jupyter-slideshow"
+  ]
 }
